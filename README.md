@@ -3,7 +3,7 @@
 React UI Component Frameworks
 
 
-|  Name  |     License |  
+|  Library  |     License |  
 |----------|:-------------:|
 | [AntDesign](https://github.com/ant-design/ant-design)   | MIT| 
 |[Material-UI](https://github.com/mui-org/material-ui)  | MIT  |
